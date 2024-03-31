@@ -1,5 +1,5 @@
 export default function Company() {
   return (
-    <div>Company</div>
+    <main className="flex min-h-screen flex-col items-center justify-between p-5">Company</main>
   )
 }

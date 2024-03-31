@@ -1,5 +1,5 @@
 export default function CreateTender() {
   return (
-    <div>Create Tender</div>
+    <main className="flex min-h-screen flex-col items-center justify-between p-5">Create Tender</main>
   )
 }

@@ -1,5 +1,5 @@
 export default function Materials() {
   return (
-    <div>Materials</div>
+    <main className="flex min-h-screen flex-col items-center justify-between p-5">Materials</main>
   )
 }
